@@ -10,6 +10,7 @@ function App() {
           alert(formatCurrency(123456.78));
         }}
       />
+      <p>Some new feature</p>
     </>
   );
 }
