@@ -12,6 +12,8 @@ function App() {
       />
       <p>Some new features!</p>
       <p>Again some new fixes</p>
+
+      <div>Click me</div>
     </>
   );
 }
